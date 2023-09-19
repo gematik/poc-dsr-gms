@@ -1,0 +1,16 @@
+{
+  "availablePackages": [
+    {
+      "packageName": "de.gematik.dsr.android",
+      "version": 1,
+      "certificateSha256Digest": "Br8MmBmVeijVKv77d2_UxosqaKD0F2IyTJ-Ak04IhBI"
+    }
+  ],
+  "availableAppIds": [
+    {
+      "teamId": "A9FL89PFFL",
+      "bundledIdentifier": "de.gematik.dsr"
+    }
+  ],
+  "trustedSDKVersions": ["1.0", "0.0.1"]
+}
